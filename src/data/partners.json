@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "logo": "/assets/img/logos/huehuy(BW).png",
+    "name": "Huehuy",
+    "link": "https://www.huehuy.com"
+  },
+  {
+    "id": 2,
+    "logo": "/assets/img/logos/jan-logo.png",
+    "name": "PT. Jejaring Antar Nusantara",
+    "link": "#"
+  },
+  {
+    "id": 3,
+    "logo": "/assets/img/logos/emas.png",
+    "name": "PT Eka Mandiri Asa Sejati",
+    "link": "#"
+  },
+  {
+    "id": 4,
+    "logo": "/assets/img/logos/gkd.png",
+    "name": "PT. Graha Kara Digital",
+    "link": "#"
+  },
+  {
+    "id": 5,
+    "logo": "/assets/img/logos/raja-khitan.png",
+    "name": "Raja Khitan",
+    "link": "#"
+  },
+  {
+    "id": 6,
+    "logo": "/assets/img/logos/fstudio.png",
+    "name": "Futura Studios",
+    "link": "https://futurastudios.io/"
+  }
+]

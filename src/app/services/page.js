@@ -6,24 +6,24 @@ import LoadingScreen from "@/components/Common/Loader";
 import MouseCursor from "@/components/Common/MouseCursor";
 import ScrollToTop from "@/components/Common/ScrollToTop";
 //= Page Components
-import SideMenu from "@/components/AppsTechnology/SideMenu";
-import Header from "@/components/AppsTechnology/Header";
-import Features from "@/components/AppsTechnology/Features";
-import Partners from "@/components/AppsTechnology/Partners";
-import Works from "@/components/AppsTechnology/Works";
-import Newsletter from "@/components/AppsTechnology/Newsletter";
-import Screens from "@/components/AppsTechnology/Screens";
-import Testimonials from "@/components/AppsTechnology/Testimonials";
-import Download from "@/components/AppsTechnology/Download";
-import Blog from "@/components/AppsTechnology/Blog";
-import Footer from "@/components/AppsTechnology/Footer";
+import SideMenu from "@/components/SideMenu";
+import Header from "@/components/Header";
+import Features from "@/components/Features";
+import Partners from "@/components/Partners";
+import Works from "@/components/Works";
+import Newsletter from "@/components/Newsletter";
+import Screens from "@/components/Screens";
+import Testimonials from "@/components/Testimonials";
+import Download from "@/components/Download";
+import Blog from "@/components/Blog";
+import Footer from "@/components/Footer";
 import WhatsAppPopup from "@/components/Common/WhatsAppPopup";
 
 export const metadata = {
   title: 'Nexoria Creative',
   icons: {
-    icon: "/home_4/assets/img/fav2.png",
-    shortcut: "/home_4/assets/img/fav2.png",
+    icon: "/assets/img/fav2.png",
+    shortcut: "/assets/img/fav2.png",
     other: generateStylesheetObject([
       'https://fonts.googleapis.com/css2?family=Darker+Grotesque:wght@300;400;500;600;700;800;900&display=swap',
       '/common/assets/css/lib/bootstrap.min.css',
@@ -34,7 +34,7 @@ export const metadata = {
       '/common/assets/css/lib/animate.css',
       '/common/assets/css/lib/swiper8.min.css',
       '/common/assets/css/common_style.css',
-      '/home_4/assets/css/home_4_style.css'
+      '/assets/css/home_4_style.css'
     ])
   }
 }

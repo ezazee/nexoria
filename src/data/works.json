@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Explore ideas faster with <BR> animation presets",
+    "category": "Flexibility",
+    "image": "/assets/img/works/1.png"
+  },
+  {
+    "id": 2,
+    "title": "Fraud. No longer your problem <BR> with business app",
+    "category": "Easy To Use",
+    "image": "/assets/img/works/2.png"
+  },
+  {
+    "id": 3,
+    "title": "Detection is guaranteed to <BR> keep you covered with 100% of <BR> chargeback protection.",
+    "category": "Business Growth",
+    "image": "/assets/img/works/3.png"
+  },
+  {
+    "id": 4,
+    "title": "Fraud. No longer your problem <BR> with business app",
+    "category": "Easy To Use",
+    "image": "/assets/img/works/2.png"
+  },
+  {
+    "id": 5,
+    "title": "Fraud. No longer your problem <BR> with business app",
+    "category": "Easy To Use",
+    "image": "/assets/img/works/2.png"
+  },
+  {
+    "id": 6,
+    "title": "Fraud. No longer your problem <BR> with business app",
+    "category": "Easy To Use",
+    "image": "/assets/img/works/2.png"
+  }
+]

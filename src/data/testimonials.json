@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "imageLight": "/assets/img/logos/huehuy(BW).png",
+    "content": "“Working with the Nexoria team was an amazing experience! They were not only professional, but also very creative in every aspect of our project in Huehuy.“",
+    "picture": "/assets/img/hendry.jpg",
+    "author": "Try Handry",
+    "position": "CTO",
+    "project": "Huehuy"
+  },
+  {
+    "id": 2,
+    "imageLight": "/assets/img/logos/jan-logo.png",
+    "content": "“Collaborating with Nexoria on our company profile for PT JAN was an outstanding experience! Their team demonstrated exceptional creativity and professionalism.“",
+    "picture": "/assets/img/hendry.jpg",
+    "author": "Try Handry",
+    "position": "CTO",
+    "project": "PT Jejaring Antar Nusantara"
+  },
+  {
+    "id": 3,
+    "imageLight": "/assets/img/logos/emas.png",
+    "content": "“Swak a studio with passionate, professional and full creativity. A much more than what i’m expect great services, high quality product & affordable price. “",
+    "picture": "/assets/img/emil.png",
+    "author": "Emile Wiratala",
+    "position": "CTO",
+    "project": "PT Eka Mandiri Asa Sejati"
+  },
+  {
+    "id": 4,
+    "imageLight": "/assets/img/logos/gkd.png",
+    "content": "“Swak a studio with passionate, professional and full creativity. A much more than what i’m expect great services, high quality product & affordable price. “",
+    "picture": "/assets/img/emil.png",
+    "author": "Emile Wiratala",
+    "position": "CEO",
+    "project": "PT Graha Kara Digital"
+  },
+  {
+    "id": 5,
+    "imageLight": "/assets/img/logos/raja-khitan.png",
+    "content": "“Swak a studio with passionate, professional and full creativity. A much more than what i’m expect great services, high quality product & affordable price. “",
+    "picture": "/assets/img/abil.jpg",
+    "author": "Nabila Aulia",
+    "position": "Founder",
+    "project": "Raja Khitan"
+  }
+]
