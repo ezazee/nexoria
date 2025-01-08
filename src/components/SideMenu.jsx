@@ -39,7 +39,7 @@ function SideMenu() {
                 <a href="#"> <i className="la la-phone-alt me-2"></i> (+23) 5535 68 68 </a>
               </div>
               <div className="col-lg-6">
-                <a href="#"> <i className="la la-envelope me-2 mt-4 mt-lg-0"></i> contact@Swak.co </a>
+                <a href="#"> <i className="la la-envelope me-2 mt-4 mt-lg-0"></i> contact@NX.co </a>
               </div>
             </div>
           </div>

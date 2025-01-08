@@ -258,7 +258,6 @@
 /* --------------- navbar style4 --------------- */
 .tc-navbar-style4 {
   padding: 40px 5vw;
-  background-color: #dfe1ef;
   position: absolute;
   top: 0;
   left: 0;
@@ -302,11 +301,11 @@
   color: #fff;
 }
 
-/* --------------- header style4 --------------- */
+/* --------------- header style4 (HOME PAGE) --------------- */
 .tc-header-style4 {
   position: relative;
   padding: 200px 0;
-  background-color: #dfe1ef;
+  background-color: #ffff;
   z-index: 10;
   border-radius: 0 0 20px 20px;
   overflow: hidden;
@@ -381,6 +380,92 @@
     text-align: start;
   }
   .tc-header-style4 .info .btns a {
+    -webkit-margin-start: 0;
+            margin-inline-start: 0;
+    -webkit-margin-end: 20px;
+            margin-inline-end: 20px;
+  }
+}
+
+/* --------------- header style4 (Services Page) --------------- */
+.tc-header-style40-services {
+  position: relative;
+  padding: 200px 0;
+  background-color: #d1e1ff;
+  z-index: 10;
+  border-radius: 0 0 20px 20px;
+  overflow: hidden;
+}
+.tc-header-style40-services .info h1 {
+  font-size: 180px;
+}
+.tc-header-style40-services .info h1 span {
+  display: block;
+  text-align: end;
+}
+.tc-header-style40-services .info .btns {
+  text-align: end;
+  margin-top: 50px;
+}
+.tc-header-style40-services .info .btns a {
+  -webkit-margin-start: 20px;
+          margin-inline-start: 20px;
+  max-height: 60px;
+  max-width: 40%;
+}
+.tc-header-style40-services .shaps {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.tc-header-style40-services .shap-1 {
+  position: absolute;
+  bottom: 0;
+  right: 10%;
+  max-height: 60%;
+  z-index: -1;
+}
+.tc-header-style40-services .shap-2 {
+  position: absolute;
+  top: 150px;
+  left: 20%;
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  background-color: #cfd1e0;
+  z-index: -1;
+}
+.tc-header-style40-services .img {
+  position: absolute;
+  bottom: -30px;
+  left: 10%;
+  max-height: 40%;
+  z-index: -1;
+}
+
+@media screen and (max-width: 991px) {
+  .tc-header-style40-services {
+    padding: 150px 0 200px;
+  }
+  .tc-header-style40-services .shap-2 {
+    top: 30px;
+    left: 10%;
+    width: 100px;
+    height: 100px;
+  }
+  .tc-header-style40-services .info h1 {
+    font-size: 50px;
+  }
+  .tc-header-style40-services .info h1 span {
+    display: inline-block;
+    text-align: start;
+  }
+  .tc-header-style40-services .info .btns {
+    text-align: start;
+  }
+  .tc-header-style40-services .info .btns a {
     -webkit-margin-start: 0;
             margin-inline-start: 0;
     -webkit-margin-end: 20px;

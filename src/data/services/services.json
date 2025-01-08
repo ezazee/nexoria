@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "icon": "/assets/img/icons/1.png",
+    "title": "Web Developer Transforming Ideas into Reality",
+    "details": "Must work closely with contractors, subcontractors, & professional"
+  },
+  {
+    "id": 2,
+    "icon": "/assets/img/icons/2.png",
+    "title": "UI & UX Design Elevating User Engagement",
+    "details": "Must work closely with contractors, subcontractors, & professional"
+  },
+  {
+    "id": 3,
+    "icon": "/assets/img/icons/3.png",
+    "title": "Social Media Management Amplifying Your Voice",
+    "details": "Must work closely with contractors, subcontractors, & professional"
+  },
+  {
+    "id": 4,
+    "icon": "/assets/img/icons/1.png",
+    "title": "Vector Design Bringing Concepts to Life",
+    "details": "Must work closely with contractors, subcontractors, & professional"
+  },
+  {
+    "id": 5,
+    "icon": "/assets/img/icons/2.png",
+    "title": "3D Design Creating Visual Masterpieces",
+    "details": "Must work closely with contractors, subcontractors, & professional"
+  },
+  {
+    "id": 6,
+    "icon": "/assets/img/icons/3.png",
+    "title": "Editing Video Crafting Compelling Narratives",
+    "details": "Must work closely with contractors, subcontractors, & professional"
+  },
+  {
+    "id": 7,
+    "icon": "/assets/img/icons/3.png",
+    "title": "Motion Graphic Capturing Attention with Style",
+    "details": "Must work closely with contractors, subcontractors, & professional"
+  }
+]

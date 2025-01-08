@@ -10,7 +10,7 @@ function Footer() {
               <div className="links-item mb-60">
                 <h5 className="sub-title fsz-24 mb-30"> Work Inquiry </h5>
                 <ul className="links">
-                  <li> <a href="#"> contact@Swak-app.com </a> </li>
+                  <li> <a href="#"> contact@nexoria-app.com </a> </li>
                   <li> <a href="#"> (054) 8687 90 50 </a> </li>
                 </ul>
               </div>
@@ -55,7 +55,7 @@ function Footer() {
         <div className="foot">
           <div className="row">
             <div className="col-lg-5">
-              <p> © Swak Startup Agency 2023 </p>
+              <p> © Nexoria Creative Agency 2025 </p>
             </div>
             <div className="col-lg-5">
               <div className="social-links">
